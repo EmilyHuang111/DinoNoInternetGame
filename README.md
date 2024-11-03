@@ -1,4 +1,5 @@
 # Dino Game
+![Demo Video](demo.gif)
 
 A fun and challenging Dino Game developed using Python and Pygame! Guide the dino to avoid obstacles and survive for as long as possible.
 
